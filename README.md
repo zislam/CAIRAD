@@ -7,6 +7,25 @@ CAIRAD specification from:
 
 For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
 
+## BibTeX
+```
+@inproceedings{rahman2012cairad,
+ author = {Rahman, Md Geaur, Islam, Md Zahidul, Bossomaier, Terry, and Gao, Junbin},
+ title = {CAIRAD: A Co-appearance based Analysis for Incorrect Records and Attribute-values Detection},
+ booktitle = {Proceedings of IEEE International Joint Conference on Neural Networks (IJCNN 12)},
+ date = {10-15 June}
+ year = {2012},
+ isbn = {978-1-4673-1488-6},
+ doi = {10.1109/IJCNN.2012.6252669}
+ location = {Brisbane, QLD, Australia},
+ pages = {2190--2199},
+ url ={https://ieeexplore.ieee.org/abstract/document/6252669},
+ publisher = {IEEE},
+ keywords = {data pre-processing, data cleansing, data mining, noise detection},
+}
+```
+
+
 ## Installation
 Either download CAIRAD from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github. A video showing the installation and use of the package can be found [here](https://www.youtube.com/watch?v=JUyKobCxruI)
 
