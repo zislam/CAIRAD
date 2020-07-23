@@ -8,7 +8,7 @@ CAIRAD specification from:
 For more information, please see Associate Professor Zahid Islam's website [here](http://csusap.csu.edu.au/~zislam/)
 
 ## Installation
-Either download CAIRAD from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github.
+Either download CAIRAD from the Weka package manager, or download the latest release from the "**Releases**" section on the sidebar of Github. A video showing the installation and use of the package can be found [here](https://www.youtube.com/watch?v=JUyKobCxruI)
 
 ## Compilation / Development
 This repository houses a Netbeans project. Load the project into Netbeans to work on the package. Alternatively, download CAIRAD.java and import it into your Weka project to use it in your code.
